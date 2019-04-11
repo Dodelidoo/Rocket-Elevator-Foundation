@@ -1,0 +1,15 @@
+C:\Users\doumv\source\repos\RocketWebApp\RocketWebApp\bin\Debug\netcoreapp2.1\RocketWebApp.deps.json
+C:\Users\doumv\source\repos\RocketWebApp\RocketWebApp\bin\Debug\netcoreapp2.1\RocketWebApp.runtimeconfig.json
+C:\Users\doumv\source\repos\RocketWebApp\RocketWebApp\bin\Debug\netcoreapp2.1\RocketWebApp.runtimeconfig.dev.json
+C:\Users\doumv\source\repos\RocketWebApp\RocketWebApp\bin\Debug\netcoreapp2.1\RocketWebApp.dll
+C:\Users\doumv\source\repos\RocketWebApp\RocketWebApp\bin\Debug\netcoreapp2.1\RocketWebApp.pdb
+C:\Users\doumv\source\repos\RocketWebApp\RocketWebApp\obj\Debug\netcoreapp2.1\RocketWebApp.csprojAssemblyReference.cache
+C:\Users\doumv\source\repos\RocketWebApp\RocketWebApp\obj\Debug\netcoreapp2.1\RocketWebApp.csproj.CoreCompileInputs.cache
+C:\Users\doumv\source\repos\RocketWebApp\RocketWebApp\obj\Debug\netcoreapp2.1\RocketWebApp.RazorAssemblyInfo.cache
+C:\Users\doumv\source\repos\RocketWebApp\RocketWebApp\obj\Debug\netcoreapp2.1\RocketWebApp.RazorAssemblyInfo.cs
+C:\Users\doumv\source\repos\RocketWebApp\RocketWebApp\obj\Debug\netcoreapp2.1\RocketWebApp.AssemblyInfoInputs.cache
+C:\Users\doumv\source\repos\RocketWebApp\RocketWebApp\obj\Debug\netcoreapp2.1\RocketWebApp.AssemblyInfo.cs
+C:\Users\doumv\source\repos\RocketWebApp\RocketWebApp\obj\Debug\netcoreapp2.1\RocketWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\doumv\source\repos\RocketWebApp\RocketWebApp\obj\Debug\netcoreapp2.1\RocketWebApp.dll
+C:\Users\doumv\source\repos\RocketWebApp\RocketWebApp\obj\Debug\netcoreapp2.1\RocketWebApp.pdb
+C:\Users\doumv\source\repos\RocketWebApp\RocketWebApp\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
