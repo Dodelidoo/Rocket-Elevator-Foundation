@@ -12,7 +12,10 @@ Rails.application.routes.draw do
   resources :leads
   resources :quotes
   resources :interventions do
-    get :test_one, on: :collection
+    get :get_buildings, on: :collection
+    get :get_batteries, on: :collection
+    get :get_columns, on: :collection
+    get :get_elevators, on: :collection
   end
   
   get '/gform', to: 'pages#gform'
